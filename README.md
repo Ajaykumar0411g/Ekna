@@ -2,7 +2,7 @@
 
 ## Project info
 
-A modern React-based website for the EKNA 2025 event organized by V-CUBE, featuring event schedules, speaker information, and registration details.
+A modern React-based website for the EKNA 2025 event organized by E-CUBE, featuring event schedules, speaker information, and registration details.
 
 ## How can I edit this code?
 
